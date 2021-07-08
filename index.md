@@ -180,11 +180,13 @@ Modify the block below if there are any special requirements.
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     <br>
     <b>Participants should be familiar with command-line programming with Bash-shell/Terminal (either previous experience or attend the August 9, workshop)</b>
+    Additionally, learners should create a <a href="https://github.com/">Github Account</a> before this workshop if they do not have one already.
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
     <br>
-    <b>Participants should be familiar with command-line programming with Bash-shell/Terminal (either previous experience or attend the August 9, workshop)</b>
+    <b>Participants should be familiar with command-line programming with Bash-shell/Terminal (either previous experience or attend the August 9, workshop).</b>
+    Additionally, learners should create a <a href="https://github.com/">Github Account</a> before this workshop if they do not hae one already. 
   {% endif %}
   They should have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
